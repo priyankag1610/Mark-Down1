@@ -72,7 +72,6 @@ print("hello world!")
 **Emoji**
 
 :cat:
-:smiley_cat:
 :smile_cat:
 :heart_eyes_cat:
 :kissing_cat:
